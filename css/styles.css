@@ -1,14 +1,14 @@
 .body {
   font-family: 'Roboto', sans-serif;
-  color: '#434455';
+  color: #434455;
   background-color: #fff;
 }
 
 /*---------- navigation---------- */
 
 .header {
-  background: var(--white);
-  border-bottom: 1 solid var(--cornflower);
+  background: #ffffff;
+  border-bottom: 1 solid #e7e9fc;
   width: 1440;
   height: 72;
 }
@@ -23,7 +23,7 @@
   font-size: 18px;
 
   /* line-height: 21px; */
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -47,22 +47,22 @@
   text-decoration: none;
   font-family: var(--font-family);
   font-weight: 500;
-  font-size: 16;
+  font-size: 16px;
 
   /* line-height: 24px; */
   line-height: 1.5;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
 .navigation-item {
   font-family: var(--font-family);
   font-weight: 400;
-  font-size: 16;
+  font-size: 16px;
 
   /* line-height: 24px; */
   line-height: 1.5;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
   color: #434455;
   text-decoration: none;
 }
@@ -74,7 +74,7 @@
   font-size: 16px;
 
   /* line-height: 24px; */
-  line-height: 1.5;
+  line-height: 1.5px;
   letter-spacing: 0.02em;
   color: #434455;
 }
@@ -195,11 +195,11 @@
 .portfolio-titel {
   font-family: var(--font-family);
   font-weight: 700;
-  font-size: 36;
+  font-size: 36px;
 
   /* line-height: 40px; */
   line-height: 1.11111;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
 }
@@ -213,21 +213,21 @@
 .portfolio-subtitel {
   font-family: var(--font-family);
   font-weight: 500;
-  font-size: 20;
+  font-size: 20px;
 
   /* line-height: 24px; */
   line-height: 1.2;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .portfolio-text {
   font-family: var(--font-family);
   font-weight: 400;
-  font-size: 16;
+  font-size: 16px;
 
   /* line-height: 24px; */
   line-height: 1.5;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
