@@ -18,7 +18,7 @@
 .logo-in-header {
   text-transform: uppercase;
   text-decoration: none;
-  font-family: Raleway;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
 
@@ -30,7 +30,7 @@
 }
 
 .logo-two-part-in-header {
-  font-family: Raleway;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
 
@@ -250,7 +250,7 @@
 .footer-logo {
   text-transform: uppercase;
   text-decoration: none;
-  font-family: Raleway;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
 
@@ -263,7 +263,7 @@
 .footer-logo-two {
   text-transform: uppercase;
   text-decoration: none;
-  font-family: Raleway;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
 
