@@ -10,7 +10,7 @@ ul {
 }
 
 :root {
-  --font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 /*---------- navigation---------- */
 
@@ -109,7 +109,7 @@ ul {
 }
 
 .hero-titel {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 56px;
 
@@ -175,6 +175,15 @@ ul {
   background: #f4f4fd;
 }
 .team-titel {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+
+  /* line-height: 40px; */
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
   background-color: #ffffff;
   text-align: center;
 }
@@ -222,7 +231,7 @@ ul {
 .portfolio {
 }
 .portfolio-titel {
-  font-family: var(--font-family);
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 36px;
 
