@@ -16,9 +16,9 @@ ul {
 
 .header {
   background: #ffffff;
-  border-bottom: 1px solid #e7e9fc;
+  /* border-bottom: 1px solid #e7e9fc;
   width: 1440px;
-  height: 72px;
+  height: 72px; */
 }
 .navigation {
 }
@@ -35,11 +35,6 @@ ul {
 
 .hero-btn {
   cursor: pointer;
-}
-
-.hero-btn:hover,
-.hero-btn:focus {
-  background-color: #404bbf;
 }
 
 .logo-in-header {
@@ -114,7 +109,7 @@ ul {
 }
 
 .hero-titel {
-  font-family: var(--font-family);
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 56px;
 
@@ -122,7 +117,7 @@ ul {
   line-height: 1.07143;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #fcfcfc;
+  color: #fff;
 }
 .hero-btn {
   font-family: var(--font-family);
@@ -137,7 +132,10 @@ ul {
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
 }
-
+.hero-btn:hover,
+.hero-btn:focus {
+  background-color: #404bbf;
+}
 /* ---------features------- */
 
 .features {
@@ -186,15 +184,16 @@ ul {
   margin: 0;
 }
 .team-item {
+  background-color: #ffffff;
 }
 .team-img {
-  border-radius: 0 0 4px 4px;
+  /* border-radius: 0 0 4px 4px;
   padding: 0px 0px 32px;
   width: 264px;
   height: 356px;
   box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
     0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
-  background: #ffffff;
+  background: #ffffff; */
 }
 .team-subtitel {
   font-family: var(--font-family);
